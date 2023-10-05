@@ -1,0 +1,1 @@
+Bip-Bop is one of the names for a video game concept where the player maneuvers a line or a bar at the bottom of the screen left or right which bounces back a ball coming from the top aiming to break all “bricks” at the top of the screen.
