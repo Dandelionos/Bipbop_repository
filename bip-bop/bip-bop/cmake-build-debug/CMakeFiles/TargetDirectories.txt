@@ -1,0 +1,3 @@
+C:/Users/domin/Downloads/bip-bop/bip-bop/cmake-build-debug/CMakeFiles/SFML_test.dir
+C:/Users/domin/Downloads/bip-bop/bip-bop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/domin/Downloads/bip-bop/bip-bop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
